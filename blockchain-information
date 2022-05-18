@@ -1,0 +1,72 @@
+web 3.0
+decentralized internet
+peer to peer network
+no central server for storing dta
+own my data----
+Dapps -------
+NFT--------
+crypto----------
+Now lot of services running and shifting to web 3.0
+--------------------------------------------------
+Prerequisites
+fees for each trancition
+dont want central server
+In fututr 
+-Government
+-Hospital
+-Bank
+-personal identity
+ICICI started using blockchain
+POC -- it is the proof of concept if this is possible to implement then 
+company/banks definetly shifts to blckchain
+----------------------------
+All bloakchain based on cryptography
+-ledger
+-hashing 
+-just check the key
+each node contains hash of previous block
+--------------------------------------------------------------
+peer to peer 
+-toorent
+-napstar
+------------
+Confidentiality
+Integrity
+Non repudiation
+Authentication
+-------------------------------
+Cryptography
+-Encryption   ------cipher text format
+-Decrypt  -------Key
+Symmetric Key Cryptography
+Asymmetric key Cryptography
+ ----------------------------------
+Digital Signature
+-confidentiality
+-Authentication
+double encryption
+---------------------------------------------------------
+Current size of blockchain 188GB
+---------------------------
+Node
+-full node
+-new block verify and add in full node
+--Minor ---Huge computing power
+use mobile as node
+--partial node
+----------------------------
+Hash function
+reverse is not possible
+------------------------
+Algorithms
+MDA-5
+SHA  NSA
+-----------------------------------
+
+
+
+
+
+
+
+
